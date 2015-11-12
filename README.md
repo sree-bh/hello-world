@@ -1,6 +1,5 @@
 # hello-world
-first repo in github
 
-Hi,
+Hi, this is Sree. I am a front end developer based in India. I am new to nodejs.
 
-Sree here, I am a front end developer based in India.
+In this project I have used nodejs to host the index.html file. I will be using this setup for rest of the projects I work on.
