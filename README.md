@@ -1,7 +1,5 @@
 # hello-world
 
-Hi,
+Hi, this is Sree. I am a front end developer based in India. I am new to nodejs.
 
-Sree here, I am a front end developer based in India.
-
-This project contains the basic setup to host the index.html using nodejs.
+In this project I have used nodejs to host the index.html file. I will be using this setup for rest of the projects I work on.
